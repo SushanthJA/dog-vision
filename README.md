@@ -4,7 +4,7 @@ This notebook builds an end-to-end multi-class image classifier using TensorFlow
 
 ## Problem
 
-Identifying the breed of a dog given the image of a dog.
+Identifying the breed of a dog given the image of the dog.
 
 ## Data
 
